@@ -6,3 +6,5 @@ Team members:
 
 - Joshua Goldberg
 - Abhinav Katoch
+
+Various methods will be implemented from Amazon Research's [Neural forecasting: Introduction and literature overview](https://arxiv.org/pdf/2004.10240.pdf).
